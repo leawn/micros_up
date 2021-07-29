@@ -1,4 +1,4 @@
-# OPM29: Deploy microservices using a GitOps deployment tool
+# OPM31: Deploy microservices using a GitOps deployment tool
 
 ## Status
 Accepted
